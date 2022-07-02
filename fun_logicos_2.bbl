@@ -1,0 +1,53 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Diestel(2000)]{Diestel00}
+Reinhard Diestel.
+\newblock \emph{Graph Theory}.
+\newblock Springer-Verlag, New York, 2 edition, 2000.
+\newblock ISBN 978-3642142789.
+\newblock URL
+  \url{http://www.math.uni-hamburg.de/home/diestel/books/graph.theory/GraphTheoryII.pdf}.
+
+\bibitem[Eén and Sörensson(2004)]{minisat}
+Niklas Eén and Niklas Sörensson.
+\newblock An extensible sat-solver.
+\newblock In Enrico Giunchiglia and Armando Tacchella, editors, \emph{Theory
+  and Applications of Satisfiability Testing}, volume 2919 of \emph{Lecture
+  Notes in Computer Science}, pages 502--518. Springer Berlin Heidelberg, 2004.
+\newblock ISBN 978-3-540-20851-8.
+
+\bibitem[McKay(1981)]{Mckay81}
+B.~D. McKay.
+\newblock Practical graph isomorphism.
+\newblock In \emph{Congressus Numerantium (10th. Manitoba Conference on
+  Numerical Mathematics and Computing)}, volume~30, pages 45--87, 1981.
+
+\bibitem[Mugrauer and Balint(2013)]{MugrauerBalint}
+Frank Mugrauer and Adrian Balint.
+\newblock Sat encoded graph isomorphism (gi) benchmark description.
+\newblock \emph{Proceedings of SAT Competition 2013; Solver and}, page 115,
+  2013.
+
+\bibitem[Read and Corneil(1977)]{Isomorphism}
+Ronald~C. Read and Derek~G. Corneil.
+\newblock The graph isomorphism disease.
+\newblock \emph{Journal of Graph Theory}, 1\penalty0 (4):\penalty0 339--363,
+  1977.
+\newblock ISSN 1097-0118.
+\newblock \doi{10.1002/jgt.3190010410}.
+\newblock URL \url{http://dx.doi.org/10.1002/jgt.3190010410}.
+
+\bibitem[Schaefer(1978)]{SAT}
+Thomas~J. Schaefer.
+\newblock The complexity of satisfiability problems.
+\newblock In \emph{Proceedings of the Tenth Annual ACM Symposium on Theory of
+  Computing}, STOC '78, pages 216--226, New York, NY, USA, 1978. ACM.
+\newblock \doi{10.1145/800133.804350}.
+\newblock URL \url{http://doi.acm.org/10.1145/800133.804350}.
+
+\end{thebibliography}

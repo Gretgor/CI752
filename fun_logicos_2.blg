@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2014/dev)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: fun_logicos_2.aux
+The style file: plainnat.bst
+Database file #1: fun_logicos.bib
+You've used 6 entries,
+            2773 wiz_defined-function locations,
+            651 strings with 6070 characters,
+and the built_in function-call counts, 2981 in all, are:
+= -- 295
+> -- 101
+< -- 12
++ -- 35
+- -- 29
+* -- 200
+:= -- 436
+add.period$ -- 28
+call.type$ -- 6
+change.case$ -- 27
+chr.to.int$ -- 6
+cite$ -- 12
+duplicate$ -- 163
+empty$ -- 265
+format.name$ -- 41
+if$ -- 670
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 7
+newline$ -- 46
+num.names$ -- 26
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 130
+stack$ -- 0
+substring$ -- 123
+swap$ -- 42
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 61
+warning$ -- 0
+while$ -- 29
+width$ -- 0
+write$ -- 108
