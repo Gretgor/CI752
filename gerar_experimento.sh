@@ -21,3 +21,7 @@ do
 		fi
 	done
 done
+
+### INSTÂNCIAS NEGATIVAS > basta rodar o gerador de instâncias positivas duas vezes, e rodar os programas sobre grafos gerados em rodagens diferentes.
+# Existe uma probabilidade (assintotitcamente minúscula) de uma instância assim gerada ser positiva, mas é pequena o suficiente para ser negligenciada
+# para grafos grandes o suficiente.
